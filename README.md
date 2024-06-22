@@ -1,5 +1,8 @@
 ## Hi there 👋
-Young developer for multiple platforms, such as Roblox, Discord, and Geometry Dash
+
+- Roblox Developer
+- Geometry Dash Mod Developer ![My mod downloads](https://img.shields.io/github/downloads/29cmb/CleanMenu/total) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/29cmb/CleanMenu)
+
 
 Not open for work
 
