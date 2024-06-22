@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Roblox Developer
-- Geometry Dash Mod Developer ![My mod downloads](https://img.shields.io/github/downloads/29cmb/CleanMenu/total) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/29cmb/CleanMenu)
+- Geometry Dash Mod Developer ![My mod downloads](https://img.shields.io/github/downloads/29cmb/CleanMenu/total?logo=geode) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/29cmb/CleanMenu)
 
 
 Not open for work
