@@ -1,4 +1,4 @@
-[![https://github-profile-trophy.vercel.app/?username=29cmb&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark]](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=29cmb&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## Hi there 👋
 
 - Roblox Developer
