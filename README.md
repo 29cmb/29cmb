@@ -11,7 +11,7 @@
   <img alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-ad14ff?logo=kotlin&logoColor=white&style=for-the-badge" />
   <img alt="LUAU" src="https://img.shields.io/badge/LUAU-14b1ff?logo=luau&logoColor=white&style=for-the-badge" />
 </p>
-<p>I also know that programmers live off utilities, so here are some of my favorites</p>
+<p>Programmers live off utilities, so here are some of my favorites</p>
 <p align="center">
   <img alt="GEODE" src="https://img.shields.io/badge/GEODE-8D7ACF?logo=geode&logoColor=white&style=for-the-badge" />
   <img alt="EXPRESS" src="https://img.shields.io/badge/EXPRESS-000000?logo=express&logoColor=white&style=for-the-badge" />
