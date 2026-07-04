@@ -33,5 +33,5 @@ I've been making random coding things since 2020, starting on roblox and moving 
 
 ![hackatime statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=633&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=20)
 
-[![DevCmb's GitHub stats](https://github-readme-stats.vercel.app/api?username=29cmb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DevCmb's GitHub stats](https://github-stats-extended.vercel.app/api?username=29cmb&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
